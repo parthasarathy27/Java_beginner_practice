@@ -53,4 +53,4 @@ We welcome contributions from everyone who is willing to improve or add new exer
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- etc...
