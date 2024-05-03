@@ -2,7 +2,7 @@
 
 This repository is dedicated to beginners in Java who are looking to practice and improve their programming skills. Here you'll find a collection of Java exercises and solutions that cover basic concepts and help you to understand the fundamentals of Java programming.
 
-## Getting Started
+## Getting Started ⏳
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
