@@ -19,7 +19,7 @@ Any IDE that supports Java (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
 A step-by-step series of examples that tell you how to get a development environment running:
 
-1. Clone the repo to your local machine:
+1. Clone the repo to your local machine.
 
 ```bash
 git clone https://github.com/yourusername/Java_beginner_practice.git
